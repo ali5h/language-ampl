@@ -1,14 +1,12 @@
 {
   "name": "language-ampl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "AMPL language support for Atom.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/shariat/language-ampl",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
