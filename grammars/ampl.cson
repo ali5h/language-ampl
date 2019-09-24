@@ -2,6 +2,7 @@ fileTypes: [
   "mod"
   "dat"
   "run"
+  "ampl"
 ]
 name: "AMPL"
 patterns: [
