@@ -1,6 +1,6 @@
 {
   "name": "language-ampl",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "AMPL language support for Atom.",
   "keywords": [],
   "repository": "https://github.com/ali5h/language-ampl",
